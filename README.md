@@ -4,7 +4,7 @@
 
 ## About Me
 
-[Replace this paragraph with at least three sentences: who you are, why you are learning cybersecurity, and one learning goal for this course. Keep the `## About Me` heading and the rest of this README.]
+I am KJ McDaniels. I am learning cybersecurity because it fits my desires to be challenged, creative and to be of service to people, systems, and data. These do best and can even thrive with confidentiality, integrity and availability in as its most important actionable assets. A few learning goals for this course are to keep striving and build new learning modalities while building networking, cybersecurity, and other technical skills. I also hope to practice communication skills. 
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
